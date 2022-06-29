@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1656509948 source:c:\users\pacug\desktop\programacioni\segundoparcial_laboratoriomovies\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1656510026 c:\users\pacug\desktop\programacioni\segundoparcial_laboratoriomovies\linkedlist.h
+
+1656511723 source:c:\users\pacug\desktop\programacioni\segundoparcial_laboratoriomovies\movie.c
+	"movie.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"genero.h"
+	<ctype.h>
+
+1656512240 source:c:\users\pacug\desktop\programacioni\segundoparcial_laboratoriomovies\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	<string.h>
+	"genero.h"
+	"time.h"
+	"movie.h"
+	"pedirDatos.h"
+
+1656511464 source:c:\users\pacug\desktop\programacioni\segundoparcial_laboratoriomovies\controller.c
+	"controller.h"
+	<stdio.h>
+	<stdlib.h>
+	"movie.h"
+	<ctype.h>
+	"parser.h"
+	"genero.h"
+	"pedirDatos.h"
+
+1656508663 c:\users\pacug\desktop\programacioni\segundoparcial_laboratoriomovies\controller.h
+	"LinkedList.h"
+
+1656511382 c:\users\pacug\desktop\programacioni\segundoparcial_laboratoriomovies\movie.h
+	"LinkedList.h"
+
+1656511790 source:c:\users\pacug\desktop\programacioni\segundoparcial_laboratoriomovies\genero.c
+	"genero.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1656511833 c:\users\pacug\desktop\programacioni\segundoparcial_laboratoriomovies\genero.h
+	"LinkedList.h"
+
+1656506649 source:c:\users\pacug\desktop\programacioni\segundoparcial_laboratoriomovies\parser.c
+	"parser.h"
+	"genero.h"
+	"movie.h"
+	<string.h>
+
+1656510373 c:\users\pacug\desktop\programacioni\segundoparcial_laboratoriomovies\parser.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+
+1656510170 c:\users\pacug\desktop\programacioni\segundoparcial_laboratoriomovies\pedirdatos.h
+
+1656507974 source:c:\users\pacug\desktop\programacioni\segundoparcial_laboratoriomovies\pedirdatos.c
+	"pedirDatos.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
